@@ -13,3 +13,23 @@ A few examples:
 - The popularity of the world.
 
 Try it at [thisdatasetdoesnotexist.com](https://thisdatasetdoesnotexist.com/)!
+
+## Development
+
+1. Install dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
+2. Optionally enable debug mode.
+
+```sh
+export FLASK_DEBUG=1
+```
+
+3. Start the local development server.
+
+```sh
+flask run
+```
