@@ -417,7 +417,7 @@ Top 200 Mods of reddit with the total count of subreddits they are part of
 Salary Medians and Percentiles for the 28 Most Used Programming Languages in 2023
 CEO pay has skyrocketed 1,460% since 1978: CEOs were paid 399 times as much as a typical worker in 2021
 These companies are earning a lot of money on their cash holdings
-I created a simple, free waveform and genre visualizer for your top ten Spotify songs, a few samples below and link to the tool in the comments!
+top ten Spotify songs
 Map of who the NBA team subreddits consider to be their primary and secondary rival
 The Most Popular Streaming Service By Country
 WD-40's 2023 Income Statement is greasing up their margins
@@ -665,7 +665,7 @@ CHIPS Act Impact: 50% of Fastest Growing Semiconductors Companies are Now from U
 Biggest Avocado Producers in the World
 US College Enrollment Has Dropped By 2.9 Million Students Since 2013, But Annual Tuition Revenue Is Up By $15.2 Billion
 About 1 in 10 restaurants in the U.S. serve Mexican food
-Graph view for Wikipedia articles. Details in the comments
+Graph view for Wikipedia articles
 "Where in the U.S. Can You Find the Most Days of Comfortable Weather Per Year, Matching Your Preference?"
 Created this webapp to show you how much time you have left
 Maps showing the cumulative rainfall in Vermont, northern India and Kyushu in southern Japan in the past week, which triggered landslides, flash floods and claimed the lives of dozens of people
@@ -760,7 +760,7 @@ In the U.S. the Educated Make More Money and Have Lower Unemployment
 Which US states depend the most on taxes for their revenue?
 Percentage of Americans afraid of Halloween-adjacent things
 Tesla became California's top-selling car brand after a five-year EV rout
-Israel-Palestine Media sentiment analysis: 80K posts, &gt;70 countries, encompassing News articles, X (Twitter) and Instagram. Link to the interactive viz in the comments
+Israel-Palestine Media sentiment analysis
 US Household Income (% GDP)
 The men's Sweet 16 field since 2000 visualized as the sum of total seeds
 And the Record Holders Are...
