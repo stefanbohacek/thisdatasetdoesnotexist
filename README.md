@@ -30,6 +30,8 @@ export FLASK_DEBUG=1
 
 3. Start the local development server.
 
+Names of datasets are saved in `.txt` files indide the `datasets` folder.
+
 ```sh
 flask run
 ```
