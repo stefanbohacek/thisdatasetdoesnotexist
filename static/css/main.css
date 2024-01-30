@@ -1,0 +1,46 @@
+:root {
+  --bs-btn-color: red !important;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+.hand-written {
+  font-family: "Single Day";
+  font-size: 3.3rem;
+  font-style: italic;
+}
+
+body[data-bs-theme="dark"] {
+  background-color: #232946;
+  color: #eebbc3;
+}
+
+body[data-bs-theme="dark"] .alert-light {
+  background-color: #b8c1ec;
+  color: #232946;
+}
+
+footer,
+footer a {
+  background-color: #b8c1ec;
+  color: #232946 !important;
+}
+
+.btn:hover {
+  background-color: #232946;
+}
+
+.btn:active {
+  background-color: #232946 !important;
+}
+
+body[data-bs-theme="light"] {
+  background-color: #eebbc3;
+  color: #232946;
+}
+
+body[data-bs-theme="light"] footer {
+  /* background-color: red; */
+}
