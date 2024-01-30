@@ -614,7 +614,7 @@ Data set on AI adoption in consultants
 dataset on lecture videos
 Losses Russia in Ukraine WarSpotting
 Any datasets showing muscle mass / body composition and health outcomes
-Need dataset for peace, justice, and strong institutions.
+Dataset for peace, justice, and strong institutions.
 Research on E-commerce Growth Data China
 a mapping of all series ID of the FRED API
 Litrec Dataset (Used in Book Recommendation Systems)
@@ -685,7 +685,7 @@ Global InfoSec / Cybersecurity Salary Index
 Any live dataset apart from finance stocks
 Global AI, ML, Data Science Salary Index for 2023
 Morningstar Direct: excess return as a time series
-Need dataset with list of gym exercises
+List of gym exercises
 Dataset needed for College capstone project
 transactional email dataset
 How to access MEVA activities dataset
@@ -847,7 +847,7 @@ Where is possible to get historical order book data for BTC/USDT from Binance
 Bilateral ecomm/digital trade flows
 US Dataset on Shares of Religious beliefs needed.
 The Approach vs Technology Confusion: Where do Data Products Fit In
-Need dataset to predict vehicle reliability
+Dataset to predict vehicle reliability
 Earnings by level of education (UK)
 Problem downloading U.S. congressmen trades dataset
 Can someone break down the files and variables available in MIMIC-IV and eICU datasets and the difference between MIMIC-IV and older versions
@@ -870,7 +870,7 @@ a market for selling datasets
 Want English songs dataset, for a proof of concept project, yet realistic
 Customer Support Chat Dataset for Training a llm
 Dataset translation script: is this a problem you commonly face
-I need dataset for Sentimental Analysis.
+Dataset for Sentimental Analysis.
 ISO: Simple Format Global Elevation Data
 Feature Programming for Multivariate Time Series Prediction
 Any free recipes datasets for my project 
