@@ -287,7 +287,7 @@ IMDB vs TMDB - advice for recommender system.
 Training a neural network - Cluster of rice grains or individual rice grains.
 Data for the number of short men in the UK.
 "Great American Taste Test" Coffee Survey Data.
-Are there any data sets on movie preference and its relationship age and gender.
+Data sets on movie preference and its relationship age and gender.
 FDA approved drugs by indication.
 Access to consumer spending data. Ideally by zip or census code.
 How to Build Data Products.
@@ -301,7 +301,6 @@ Need an NBA Playoff Shot Location Dataset.
 Facecheck.id strange things going on. Full database download.
 Where do u guys find datasets for Ur projects.
 Suitable aligners to create a three-language parallel corpus.
-What is the best way to get information off of a Wiki for natural language processing.
 Data as a Strategic Asset: How are Businesses Embracing the Mindset.
 Want to find the datasets for crop yield predictions.
 Dataset about comments from people in different relation types.
@@ -322,7 +321,7 @@ Federal grant success rate data.
 Most Valuable Data Sets resource or discussion.
 Literature review - how to filter out redundant search results from similar search iterations.
 CleanVision: Audit your Image Datasets for better Computer Vision.
-Are there mental health classification datasets available publicly.
+Mental health classification datasets available publicly.
 What are the essential SQL skills for Senior Business Analysts.
 A recipe dataset from many different websites.
 REDD (A public data set for energy disaggregation) new link.
@@ -358,8 +357,8 @@ IMDB Dataset - pulling movies in the enlgish language only.
 Grocery products dataset.
 Spotify Artist's listeners Data for 2015.
 Historic (yearly) global air quality dataset.
-Police Officer Bodycam Dataset (Recorded Footage).
-Are there datasets about healthcare for doing regression.
+Police Officer Bodycam Dataset.
+Datasets about healthcare.
 Radiation Spread during an oil tanker explosion.
 Real Estate Sales Data for New York State.
 US DoD data request by profession plz.
@@ -670,7 +669,7 @@ Indian F&O data collection from NSE.
 Footfall/Foot Traffic Datasets.
 Mapping COICOP product codes with EXIOBASE industries.
 LF approximate vehicle maintenance cost of operation per state (US).
-Are there any good image datasets with location data.
+Image datasets with location data.
 Event-Based, Fine-Grained Tennis Matches Dataset.
 How can find the best free dataset from the matches of football.
 Need a dataset for survival analysis.
@@ -764,13 +763,13 @@ NBA March Madness or other internal-to-company sports-prediction related dataset
 What are you using your datasets actually for.
 I am trying to find datasets for any consumer product where I can get the component chemicals present and the properties of the overall product.
 Product Dataset for Solar or IT e-commerce.
-Are there any datasets containing pertussis audio and video recordings.
+Datasets containing audio and video recordings.
 Dataset about educational videogames and its effectiveness.
 Dataset about rainfall in my city to find ideal day for a wedding.
 Medical devices in wound healing data set.
 US Loan-Level Mortgage Data from HDMA.
 Datalab: Automatically Detect Common Real-World Issues in your Datasets.
-Where can I find datasets containing residential sales prices in Australian capitals that I can download for free.
+Datasets containing residential sales prices in Australian capitals that I can download for free.
 US data set of corporate employee titles and job level.
 A number of stocks listed on exchanges over years.
 Request for updated Formula E dataset with most detail possible.
@@ -908,7 +907,6 @@ How the list of most polluted cities changed in last 50 years. There seems to be
 Dataset for customer churn due to bad customer service/support in ecommerce or retail.
 Data or Recordings of the signal of GPM J1839-10.
 Crime Datasets.
-Is Techsalerator the only Data Marketplace out there or are there other one's where I can buy data.
 Command line tool for extracting secrets such as passwords, API keys, and tokens from WARC (Web ARChive) files.
 Synthetic Data for AGI is not THAT hard (math especially).
 Access to some flights api for a personal project.
