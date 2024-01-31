@@ -1,5 +1,4 @@
 Every place name in the United States.
-“There’s finally federal data on low-income college graduation rates—but it’s wrong.”
 What police-related data does your city publish?
 How often do Wikipedia editors edit?
 Four years of rejected license plates.
@@ -7,7 +6,6 @@ Data-shaming the robocallers.
 The demographics of traffic stops.
 Where do Americans spend their days?
 Finally, free access to detailed U.S. import/export data.
-Porn.
 Maternity leave policies at hundreds of American companies.
 MoMA, mo’ data.
 All licensed firearm dealers since 2010.
@@ -170,7 +168,7 @@ Gone phishing.
 Gone fishing.
 Nonprofit IRS filings — at long last.
 6,000 years of urbanization.
-Bull vs. man.
+Bull vs  man.
 2BR with vinyl siding, sweet 2BR with vinyl siding.
 The Hum.
 Public Policy.
@@ -859,7 +857,7 @@ Millions of violent crimes.
 Online news language, updated live.
 Interwar debt.
 Food flows.
-Perceived vs. real ages.
+Perceived vs  real ages.
 Chicago prosecutions.
 Electricity prices.
 Financial well-being.
@@ -1171,8 +1169,8 @@ Working hours.
 London’s COVID restrictions.
 Fishing the Great Lakes.
 Global abortion rates.
-Central banks vs. the pandemic.
-The pandemic vs. US households.
+Central banks vs  the pandemic.
+The pandemic vs  US households.
 News homepages.
 Rainforest soundscapes.
 Domestic terrorism.

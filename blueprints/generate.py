@@ -12,14 +12,13 @@ for subdir, dirs, files in os.walk("datasets"):
         filepath = subdir + os.sep + file
 
         if filepath.endswith(".txt"):
-            # print(filepath)
             with open(filepath) as f:
                 text += f.read() + "\n"
 
 @generate_blueprint.route('/generate')
 def generate():
     text_model = markovify.Text(text.rstrip('\r\n'))
-    datasets = [text_model.make_sentence() for i in range(100)]
+    datasets = [text_model.make_sentence(min_words=8, max_words=12) for i in range(100)]
     datasets = [i for i in datasets if i is not None]
     dataset = choice(datasets)
     return jsonify(
