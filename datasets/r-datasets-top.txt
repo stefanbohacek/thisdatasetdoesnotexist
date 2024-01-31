@@ -45,7 +45,6 @@ Finding large NBA Dataset for school project.
 I scraped and produced a dataset about CVS Minute Clinics across the country.
 There was an IMDb dataset on kaggle that had detailed ratings breakdown of all movies and was later removed, since then i have not found anything like it.
 I cleaned a data set about train accidents.
-I cleaned a data set about train accidents.
 Where to get weather data for the last 20ish years.
 Annotated Datasets of Oil Palm Fruit Bunch Piles for Ripeness Grading Using Deep Learning.
 Databoutique.com, a marketplace for web data.
@@ -129,7 +128,6 @@ Any up-to-date datasets where I can get all posts and comments with upvotes from
 Avg monthly rainfall in India from Jan 2015 to Jan 23.
 Where would I find a Dataset that has information on Anxiety.
 Jaguar Weights and Measurements Compilation Dataset: Information and How to Access.
-Jaguar Weights and Measurements Compilation Dataset: Information and How to Access.
 Anywhere I can find Psychology/Medicine dataset available online.
 Kaggle Global News Dataset for NLP work.
 Why do so many publicly available datasets open in such inconvenient/unusable formats.
@@ -162,7 +160,6 @@ English Premier League First Half vs Second Half Data by Match.
 A dataset(s) containing NAICS, SIC, and DUNS codes.
 Dataset or repository of people looking to acquire external datasets.
 Datasets with information about universities.
-Sites with great libraries or sharing report data.
 Sites with great libraries or sharing report data.
 Medical prescription dataset.
 Introducing CCI: A High-Quality Chinese Internet Language Dataset for AI.
@@ -225,7 +222,6 @@ A dataset of small talk questions.
 Food trucks dataset by city in Florida(other states included).
 Teacher Turnover at the School-level.
 VL Datasets - A Free Collection of Clean Computer Vision Datasets.
-VL Datasets - A Free Collection of Clean Computer Vision Datasets.
 Common anti-bot (anti-scraping) measures on Websites and how to bypass them.
 Found some more simple csv & excel datasets for business use cases.
 Dataset or database for computer component gaming performance.
@@ -237,7 +233,6 @@ Gold historical price daily eur and usd.
 How to represent large categorical data.
 Historical sales datasets of luxury clothing brand.
 Washington D.C 2010-2020 Felony Offense and Sentence Overview.
-Any datasets for counties in California and their party alignment.
 Any datasets for counties in California and their party alignment.
 Moving mean of a moving mean. Is this ok .
 Learn to Predict User Sentiment from Text Comments.
@@ -706,7 +701,6 @@ An API or daily dataset for large, in-person event information.
 Dataset showing internet/traceroute latency by geography/provider.
 .Onion/Deep Web Scraped Pages datasets.
 A text or audio dataset in a language that is not in Google Translate.
-Dataset of all the characters of all spoken languages (modern and ancient).
 Where can I get a text file containing every Unicode character.
 Up to date energy datasets.
 The Data Product Strategy.
@@ -734,7 +728,6 @@ Auction results in used/new construction equipment.
 App that links heart rate and/or ECG to calendar events/other apps.
 What are the most used Time Series Datasets.
 DataSet of Bone fracture localization.
-Datasets for recommending music to people and how to use them.
 Prices for used medium and heavy duty vehicles data set.
 Plastic Waste in Oceans, water to save marine life.
 Database for companies across the asia.
@@ -852,7 +845,6 @@ Isolated Instruments Dataset for source separation.
 A dataset related to Ehlers Danlos syndrome.
 A dataset about Cerebral Palsy.
 Dataset suggestions for learning modeling and optimizations.
-Dataset suggestions for learning modeling and optimizations.
 Database for protein expression.
 A market for selling datasets.
 Want English songs dataset, for a proof of concept project, yet realistic.
@@ -888,9 +880,7 @@ Seeking Guidance on Extracting and Analyzing Subreddit/Post Comments Using ChatG
 Nutritionist recommended Food (fruit/vegetables) dataset.
 IMDB Dataset - how do I get film posters.
 Azure Synapse Analytics: A Step-by-Step Guide.
-Azure Synapse Analytics: A Step-by-Step Guide.
 US & UK Bill of lading shippment data.
-How the list of most polluted cities changed in last 50 years. There seems to be lack of data/plots on this question.
 How the list of most polluted cities changed in last 50 years. There seems to be lack of data/plots on this question.
 Dataset for customer churn due to bad customer service/support in ecommerce or retail.
 Data or Recordings of the signal of GPM J1839-10.
