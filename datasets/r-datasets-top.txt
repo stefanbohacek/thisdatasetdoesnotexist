@@ -138,7 +138,6 @@ Dataset for understanding people's opinion on products.
 Temperature and humidity readings from the Amazon rainforest.
 Finding Historical stock data from 1960-1980.
 Medical datasets for learning risk score models.
-DoltHub Data Bounties are no more. Thanks to r/datasets for all the support over the years.
 Datasets to practice on to get a Job.
 Getting access to high-quality data for MLs in the training stage.
 English Premier League First Half vs Second Half Data by Match.
@@ -726,7 +725,7 @@ Active list of domain names.
 Dataset of medical case scenarios and appropriate diagnosis.
 Data on enrollment and education in the USA.
 Dataset regarding hair transplants, either global or local.
-Educational Data - Philadelphia vs Los Angeles - Project for a Charity - Thanks.
+Educational Data.
 Global data of federal grants.
 Music Charts, AT40, Country Latin, British charts.
 Data from iOS App store.
