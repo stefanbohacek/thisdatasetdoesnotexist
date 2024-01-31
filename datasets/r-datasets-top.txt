@@ -325,7 +325,7 @@ Best Place to Find Data on Real Estate Transactions in Arizona.
 Parking lots Anomalous Activities Video Dataset.
 Reasoning Test/complex shape pattern dataset.
 A Dataset of Global AI/ML, Data Science Salaries in the Public Domain.
-A diabetes dataset for a research project.
+A diabetes dataset.
 Websites to download datasets about casinos / gambling industry.
 Human history dataset.
 Bibliometric data of researchers and their works.
@@ -386,7 +386,7 @@ Turkey and Syria Earthquake Tweets Dataset.
 A dataset that has a hierarchy.
 ISO 3166 second level dataset and country/county geocoding lib.
 Supply chain datasets including B2B suppliers.
-Twitter dataset for a research project on use of social media and online mobilization.
+Twitter dataset.
 South Africa's Court Case Against Israel in the International Court of Justice.
 A small ordinal dataset - preferably in csv format.
 Pixel arts dataset.
