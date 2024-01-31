@@ -2,67 +2,63 @@ Comprehensive NBA Basketball SQLite Database on Kaggle Now Updated  Across 16 ta
 500,000 Tweets sampled from the Twitter API before API access was shut down.
 Public database of hospital prices.
 4.5M headlines between 2007-2023 (From 10 major news sites).
-"The Office" Dataset at Hugging Face.
-Tech Layoff Dataset.
+"The Office" dataset at Hugging Face.
+Tech Layoff dataset.
 A detailed shaded relief map of London rendered from Lidar data.
 A complete set of tweets in a day (375 million tweets).
 Complete FIFA 23 dataset available on Kaggle.
 Banned Books across U.S. State Prisons.
 A very large dataset of booze, wines and spirits.
-Language models can explain neurons in language models (including dataset).
+Language models dataset.
 New tweet dataset (90M tweets, 150K users).
 The largest dataset of graded diamonds on Kaggle.
 Open database of hospital prices (70 shoppable services, all US hospitals, all insurance companies).
-Interesting UFO Sightings Dataset from Kaggle.
+Interesting UFO Sightings dataset from Kaggle.
 Community-built hospital price database hits 400 hospitals.
-We made a newsfeed for tracking new and deleted datasets across 200+ open data portals (and they're all queryable with SQL).
 Scrape Thousands of Records of Housing Data Using Python.
 DiffusionDB: A large-scale text-to-image prompt gallery dataset based on Stable Diffusion.
 24,000 High-Resolution Left-Facing Sneaker Images for Machine Learning (GANs) and Computer Vision.
-Github: List of Public, Real-time Datasets.
+Github: List of Public, Real-time datasets.
 Taylor Swift (42 Albums) Lyrical Data in textual format.
 Magic: the Gathering deck lists scraped from MtgTop8.
-A free, open source mock data stream generator for your next project.
-Open Public Domain Exercise Dataset.
+Open Public Domain Exercise dataset.
 Housing Data: the number of dwellings and people in cities and countries around the world.
 270K of oil and gas wells dataset in Pennsylvania, USA.
 Lab test pricing data.
 Documenting Equipment Losses During The 2023 Wagner Group Mutiny.
 New dataset on holes drilled into the earth for fun, science, and profit -- but mostly profit.
-Scrapeghost. Web scrape using gpt-4 (experimental).
 Documenting Russian Equipment Losses During The 2022 Russian Invasion Of Ukraine.
 Scraping Google Trends Data in 2023.
 Netflix's revenue and users count dataset (2019 - 2023).
-Sephora Cosmetic Cost and Reviews Dataset.
+Sephora Cosmetic Cost and Reviews dataset.
 Hospital data for all.
 Norfolk Southern Accident Data 1975-2022.
 Duplicate Data at the University of Chicago.
-Finding large NBA Dataset for school project.
+Large NBA dataset.
 A dataset about CVS Minute Clinics across the country.
 A dataset about train accidents.
 Weather data for the last 20 years.
-Annotated Datasets of Oil Palm Fruit Bunch Piles for Ripeness Grading Using Deep Learning.
+Annotated datasets of Oil Palm Fruit Bunch Piles for Ripeness Grading Using Deep Learning.
 Databoutique.com, a marketplace for web data.
 NBA play-by-play and shodetails dataset wuth season 1996/97.
 Reddit posts dataset with the top comment.
 A dataset on cartel violence in Mexico.
 Datasets that are updated frequently.
 Diifferent LLM scores on 6 different measurements, plus their RAM usage.
-Anthropic RLHF Dataset: Human Preference Data.
+Anthropic RLHF dataset: Human Preference Data.
 15,000 human-generated prompt response pairs specifically designed for instruction tuning large language models.
 List of publicly available datasets with real-time data.
-All TV Series Details Dataset from TheMovieDB.
+All TV Series Details dataset from TheMovieDB.
 Bidets sales during the pandemic (2019-2022).
 CSV of all National Parks Globally.
 Carbon monitor. Countries, years, sectors. Downloadable dataset.
 Is it legal to scrape data from RedFin using Selenium.
-Resource for generating simulated (fake/mock) data.
-Cattle Weight Detection Model + Dataset (12k~) supported by the Bill & Melinda Gates Foundation.
+Cattle Weight Detection Model + dataset (12k~) supported by the Bill & Melinda Gates Foundation.
 Data that shows U.S. government grants vs Private donations to charities.
 List of Remote Work Policies by Company.
 1,477 banned books in US schools.
-Exercise DataSet and API with information such as targetted muscles and video demonstration.
-"American Stories: A Large-Scale Structured Text Dataset of Historical U.S. Newspapers\ Dell et al 2023.
+Exercise dataset and API with information such as targetted muscles and video demonstration.
+"American Stories: A Large-Scale Structured Text dataset of Historical U.S. Newspapers\ Dell et al 2023.
 More public SQL-queryable databases.
 American Local Government Elections Database: 57,000 elections for mayor, city councilor, county executive, county legislator, sheriff, prosecutor, and school board offices across the last 30+ years.
 Real estate scraping library for Zillow, Realtor.com & Redfin.
@@ -72,26 +68,26 @@ Affordable financial datasets on VC and startups.
 Crowdsourcing hospital price data. Paying out $500/wk, increasing as engagement increases.
 A dataset of my BeReals from the past year and a half.
 Dataset of 250K Books and 1.5M Scholarly Papers with Extracted Text Layers.
-In(greed)flation: comparing grocery food skus year-over-year.
-CIFAR 100 Dataset with online interactive EDA based on embeddings and predictions on Hugging Face Spaces.
+Comparing grocery food prices year-over-year.
+CIFAR 100 dataset with online interactive EDA based on embeddings and predictions on Hugging Face Spaces.
 Pass the pigs dice game data 6000 observations.
 Maryland State-wide Crashes from 2016-2022.
 Moving Data from Excel to Something Online.
 All airports with geolocation.
 Analysing the bias in BBC reporting on Palestine.
 Explore hundreds of open datasets with SQL, for free.
-"A Massive Scale Semantic Similarity Dataset of Historical English\ Silcock & Dale 2023 (396m pairs of American newspaper headlines describing the same news).
+A Massive Scale Semantic Similarity dataset of Historical English.
 Financial data.
 Medical wordlists in ENG, FRE and Ukrainian.
-Supply Chain Dataset with company relationships and products.
+Supply Chain dataset with company relationships and products.
 Struggling with finding a use case to work on for my Course Work.
 Best Books (10k) Multi-Genre Data.
 Magic: The Gathering dashboard.
 Websites and subsidiaries belonging to the largest 500 companies.
 Twitter behavior around Dobbs v. Jackson (2022).
-Ultimate Guide: 200+ Free Datasets for Data Science, Machine learning, AI, NLP.
+Ultimate Guide: 200+ Free datasets for Data Science, Machine learning, AI, NLP.
 Complete EA Sports FC (formerly FIFA) 24 dataset available on Kaggle.
-"DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI\ Zhang et al 2023.
+"DialogStudio: Towards Richest and Most Diverse Unified dataset Collection for Conversational AI\ Zhang et al 2023.
 Large monthly list of popular websites, extracted from Chrome UX Reports.
 WebScraping specific zip code data from Zillow.
 A list of movies released in 2022.
@@ -110,16 +106,16 @@ SynFoot, a large-scale synthetic dataset of 50,000 photorealistic foot pictures.
 A dataset that lists the zip codes of all the Appalachian counties in the US.
 Quality datasets for tableau practice.
 Dataset on customer churn for streaming platforms (Netflix, Disney+, etc).
-E-Mail Datasets.
+E-Mail datasets.
 14M show ratings from 80k users, 50k shows.
-A good fraud dataset for a class project, not very knowledgeable.
-Reported Chemicals in Makeup Dataset.
+Fraud dataset.
+Reported Chemicals in Makeup dataset.
 All posts and comments with upvotes from Reddit.
 Avg monthly rainfall in India from Jan 2015 to Jan 23.
 Dataset that has information on Anxiety.
-Jaguar Weights and Measurements Compilation Dataset.
+Jaguar Weights and Measurements Compilation dataset.
 Psychology/Medicine dataset.
-Kaggle Global News Dataset for NLP work.
+Kaggle Global News dataset for NLP work.
 Database of all 8,291 license plates available in the U.S. (50 states D.C.) as of July 2023.
 Dataset of Cybersecurity Salaries in the Public Domain.
 Figma for Data Products: Novel tech requires enough experimentation and a big playground.
@@ -127,11 +123,11 @@ USA employee gender and race statistics for 20,000+ companies.
 All Academic Journals - datasets and tips/suggestions.
 List of All Academic Journals.
 Mental health misinformation dataset.
-List of code generation datasets (open source).
+List of code generation datasets.
 Recipe 1M+ dataset.
 Open API/DB of all airports with name, IATA, alt, long etc.
 Pipeline defects (corrosion, cracks, misalignments, dents).
-New Datasets with job postings on Kaggle.
+New datasets with job postings on Kaggle.
 Poker hands (with labels for raise, check and fold).
 A dataset on lime production in Mexico by muncipality.
 Dataset for understanding people's opinion on products.
@@ -141,14 +137,12 @@ Medical datasets for learning risk score models.
 Datasets to practice on to get a Job.
 Getting access to high-quality data for MLs in the training stage.
 English Premier League First Half vs Second Half Data by Match.
-A dataset(s) containing NAICS, SIC, and DUNS codes.
 Dataset or repository of people looking to acquire external datasets.
 Datasets with information about universities.
 Sites with great libraries or sharing report data.
 Medical prescription dataset.
-Introducing CCI: A High-Quality Chinese Internet Language Dataset for AI.
+Introducing CCI: A High-Quality Chinese Internet Language dataset for AI.
 GitHub repo containing gigabytes of example onxx models.
-An Open Dataset of High-Quality Mathematical Web Text\ Paster et al 2023 (14.7b tokens of Internet HTML/LaTeX math text).
 Lottery Data in a Useable Format like CSV.
 Zimbabwe 2023 Macroeconomic Analysis.
 US military interventions from 1776 until 2019.
@@ -161,9 +155,9 @@ District-level data on development outcomes in India.
 Dataset for Intent classification.
 World beaches dataset.
 Dataset for traffic prediction preferably in india.
-Zero to One - Raw Dataset to Your First Product ML Model in Python.
+Zero to One - Raw dataset to Your First Product ML Model in Python.
 Dataset for a healtcare triage system.
-Zillow Rentals Dataset.
+Zillow Rentals dataset.
 Dataset with all gas stations in the USA and their address.
 YouTube Trending Videos Data (US) - Views, Comments, Likes, etc.
 Question - weather and temperature datasets.
@@ -199,9 +193,9 @@ Train LLMs with text-rich data covering SEC corporate filings, US patent grants,
 LLM training with PHP improved using txt datasets.
 Dataset for costs of vehicle ownership (maintenance) as the vehicle ages.
 A dataset of small talk questions.
-Food trucks dataset by city in Florida(other states included).
+Food trucks dataset by city in Florida.
 Teacher Turnover at the School-level.
-VL Datasets - A Free Collection of Clean Computer Vision Datasets.
+VL datasets - A Free Collection of Clean Computer Vision datasets.
 Found some more simple csv & excel datasets for business use cases.
 Dataset or database for computer component gaming performance.
 Dataset to measure how frequently vehicular parts are subjugated to wear and tear of specific brand.
@@ -219,17 +213,17 @@ Datasets on the concentration of different gases emitted by fruits and vegetable
 Minecraft mob damage and health.
 Dataset of frequency of different topics in conversation/writing Or even just a text dataset of conversations.
 Historical Job Posting Data.
-Formula 1 datasets for a tableau project.
+Formula 1 dataset.
 An incomplete dataset that should be messy or contain various data quality issues.
 Fracking Registry dataset.
 Large dataset with drug approval information and many drug characteristics.
 Zimbabwe 2018 Election Results Analysis.
 Data on number pages in papers over the years.
 Sharing some of my highly voted Kaggle datasets.
-Recommendations for Datasets to Apply CycleGAN to.
+Recommendations for datasets to Apply CycleGAN to.
 Number of Direct Flights Between Domestic Airports.
 How much Media talks about a specific company.
-Dataset showing average hours worked (at a job) for US households.
+Dataset showing average hours worked for US households.
 Every product listed on LEGO.com, May 2023.
 S&P 500 market cap for all years since 1980.
 Written to text training data for Spanish.
@@ -245,7 +239,7 @@ Digital Marketing dataset.
 Administrative Capacity in Africa 1991-2021.
 Professional networking for data analytics.
 Book database site that allows you to sort books using Goodreads ratings and more.
-Dataset for training LLMs to translate English into statements of pure zero-order logic (ZOL).
+Dataset for training LLMs to translate English into statements of pure zero-order logic.
 Recurring dataset scraping using just GitHub.
 IMDB vs TMDB - advice for recommender system.
 Training a neural network - Cluster of rice grains or individual rice grains.
@@ -257,12 +251,12 @@ Access to consumer spending data. Ideally by zip or census code.
 All companies of a specific category residing within my state.
 Indeed dataset 730k records.
 A dataset for divorce forecasting analysis.
-Annual County-Level Demographic Data Sanskrit Audio Dataset for Transcription.
+Annual County-Level Demographic Data Sanskrit Audio dataset for Transcription.
 Beginner Data Analyst easy datasets to practice on R Studio.
-NBA Playoff Shot Location Dataset.
+NBA Playoff Shot Location dataset.
 Facecheck.id strange things going on. Full database download.
 Suitable aligners to create a three-language parallel corpus.
-Want to find the datasets for crop yield predictions.
+Datasets for crop yield predictions.
 Dataset about comments from people in different relation types.
 Dataset (Gender) Bias Detection.
 Dataset showing all airlines in the world, ranked by number of passengers in 2019.
@@ -277,23 +271,23 @@ Historical sports betting data.
 Underlying data source for website Allbiz.com.
 Explore the Automotive Trends Data.
 Federal grant success rate data.
-Most Valuable DataSets resource or discussion.
+Most Valuable datasets resource or discussion.
 Literature review.
-CleanVision: Audit your Image Datasets for better Computer Vision.
+CleanVision: Audit your Image datasets for better Computer Vision.
 Mental health classification datasets available publicly.
 A recipe dataset from many different websites.
 Public dataset for energy disaggregation.
-Scandinavian Art Auction Sales Prices Dataset.
+Scandinavian Art Auction Sales Prices dataset.
 To analyze data, useful for NBA stats.
 Pulsating stars data.
-Require a Supply Chain Management Dataset.
+Require a Supply Chain Management dataset.
 Annual smartphone sales and average smartphone price data by country.
 Historical spending data for the united states from 1960-today.
 Macro-economics data.
 Data on where doctors did their residencies.
 Large dataset for books, biography, etc.
 Datasets on medical insurance prior authorizations (insurance pre-review & approvals/denials).
-Image Dataset of Industries or Dataset with Lat Long Information of Industries.
+Image dataset of Industries or dataset with Lat Long Information of Industries.
 Share Repurchase data for the last 20 years.
 Historical sports betting line movement dataset.
 Analytics of most successful youtube channels.
@@ -304,47 +298,47 @@ UK Train dataset. passenger journey numbers for the active rail stations across 
 Recap of 2023's Transformative Data Landscape.
 NIST Ballistics Toolmark Research Database.
 Historical data for crude oil futures.
-World Championship Punkin Chunkin Results Dataset.
+World Championship Punkin Chunkin Results dataset.
 Websites that are good for web scraping finance data.
-IMDB Dataset - pulling movies in the enlgish language only.
+IMDB dataset - pulling movies in the enlgish language only.
 Grocery products dataset.
 Spotify Artist's listeners Data for 2015.
 Historic (yearly) global air quality dataset.
-Police Officer Bodycam Dataset.
+Police Officer Bodycam dataset.
 Datasets about healthcare.
 Radiation Spread during an oil tanker explosion.
 Real Estate Sales Data for New York State.
 Dataset related to security incidents.
 A database for sales for various companies during their history.
-Cybersecurity Breach DataSet with over 10k Records.
-Health Related Dataset.
+Cybersecurity Breach dataset with over 10k Records.
+Health Related dataset.
 Dataset consisting of oil mine location and seismic data and/or environmental impact of oil mine.
 Food-101N: Quantifying Thousands of (Known) Errors.
 List of UK schools with dodgy concrete.
 Best Place to Find Data on Real Estate Transactions in Arizona.
-Parking lots Anomalous Activities Video Dataset.
+Parking lots Anomalous Activities Video dataset.
 Reasoning Test/complex shape pattern dataset.
-A Dataset of Global AI/ML, Data Science Salaries in the Public Domain.
+A dataset of Global AI/ML, Data Science Salaries in the Public Domain.
 A diabetes dataset.
 Websites to download datasets about casinos / gambling industry.
 Human history dataset.
 Bibliometric data of researchers and their works.
 ISO datasets about antibiotic resistant bacteria in UK waterways.
 Examples of Data combining with culture/qualitative data/ consumer experience to better understand ticket sales.
-InternVid-10M-FLT: 10m video clips with captions (Wang et al 2023).
+10m video clips with captions.
 Dataset for the titles of reddit posts.
 Dataset for Ships flashing morse code or lights on and off.
 Data for medicine in the united states.
 Reviews on Place Accessibility for People with Disabilities.
-Data Analysis: Dataset for Rental Sales Includes All Sales Throughout All of 2018 and December of 2017.
+Data Analysis: dataset for Rental Sales Includes All Sales Throughout All of 2018 and December of 2017.
 All 98,564 lines from South Park S1 - S26 (1,561,418 words).
 Google blocked me for using Pyrenees.
-Annotated Video Dataset Divided into Chapters/Topics.
+Annotated Video dataset Divided into Chapters/Topics.
 Data about Kasparov against the World & other consultation games.
 Understanding how humans interface with LLMs.
 Challenges surrounding data availability for area of interest.
 Data on human beings with birth and death dates.
-Spotify Comprehensive Dataset on Revenue and Users.
+Spotify Comprehensive dataset on Revenue and Users.
 Changing shapes at the push of a button - Fraunhofer IWM.
 YouTuber Earnings Data.
 Dataset containing informal/formal text.
@@ -359,30 +353,30 @@ Vehicle registration data per state.
 NBA and A multilingual dataset for parsing realistic task-oriented dialogues.
 USA county data.
 Historical data on Spotify tracks.
-Alternative Medicine Effectiveness Datasets.
+Alternative Medicine Effectiveness datasets.
 Datasets with notes, quick thoughts, reminders.
-Fresh, Stale, and Rotten Salmon Fillet Datasets for my Thesis.
+Fresh, Stale, and Rotten Salmon Fillet datasets for my Thesis.
 Data from the DMV.
 DS about 4 days work week experiment.
 Cost Charge Ratios for NIS database years 2012 and 2013.
 A numeric-only dataset.
 Public health dataset.
-NASCAR Cup Series Dataset.
+NASCAR Cup Series dataset.
 Hybrid vehicle market share data over the last 5 years.
 Dataset on university student newspapers.
 Suggestions for ecology dataset for classification.
 MITRE ATT&CK annotated cyber attack trees.
-Skin Dataset for people of color for a skin disease.
+Skin dataset for people of color for a skin disease.
 Dataset Correlation question for a DDOS attack.
 Top 20 Data Science Interview Questions And Answers.
 A product catalog for avengers merch.
-A dataset of source/code files & projects for a credential scanning model.
+A dataset for a credential scanning model.
 A more recent dataset on Flights.
 Datasets related to Europe.
 Can a dataset pertaining to the prevalence of antibiotic resistance over time.
 Dataset with sizes of items for comparison.
 A dataset with sentiment-labelled text messages.
-Turkey and Syria Earthquake Tweets Dataset.
+Turkey and Syria Earthquake Tweets dataset.
 A dataset that has a hierarchy.
 ISO 3166 second level dataset and country/county geocoding lib.
 Supply chain datasets including B2B suppliers.
@@ -397,41 +391,40 @@ GDP breakdown for sub-industries.
 A longitudinal dataset on US newspaper ownership.
 Changes in the ownership of any given US newspaper/daily over a period of time.
 UFC data.
-Car Repossessed Datasets 2022-2023.
-Look for interesting graph datasets (nodes connected by links).
+Car Repossessed datasets 2022-2023.
 Dataset on betting.
 Google trends.
 Dataset with when a house was listed in the market and when it was bought.
-Datasets for Statistics class comparing industry revenue (global box office vs  gaming industry).
+Datasets for Statistics class comparing industry revenue (global box office vs gaming industry).
 Dataset related to mental health disorder and symptoms.
 The dataset of the Percentage of women in the computing workforce in the United States 1970-2020.
 Consumer behavior datasets (questionnaires/surveys ideally).
-HSA/FSA Eligible Expense Dataset.
-Blood Transfusion Service Center Dataset.
+HSA/FSA Eligible Expense dataset.
+Blood Transfusion Service Center dataset.
 Dataset for autism rates.
 Data on high school graduation rates in the United States.
 Electric vehicle image dataset for object detection.
-Comprehensive Criminal Sentencing Dataset.
+Comprehensive Criminal Sentencing dataset.
 Data Pipelines for Data Products: Key Components, Recommended Tools, and Fundamental Development Concepts.
 5 GB+ structured labelled dataset for machine learning.
-Muscle Distribution DataSet available.
+Muscle Distribution dataset available.
 Trending recipes / food in real time.
 A dataset of colleges and their extracurricular activites.
-Git Version Controlled Datasets in S3.
+Git Version Controlled datasets in S3.
 Datasets of modern foldable phones in the market.
 Rental apartment data providers which include rental property management software data.
 Dinosaur images dataset for classification.
 Multilingual corpus with text data and coordinates.
-Repetitive Islamic Patterns Dataset.
+Repetitive Islamic Patterns dataset.
 Cool geology datasets.
 Banana pests and diseases datasets.
 Data on rejected loans.
 A dataset about 'Heat Sealing Inspection based on Deep Learning'.
 ITRA races results database.
 Large Retail or Manufacturing datasets.
-Global Dataset for Air Quality Index and Pollutant by country over the years.
+Global dataset for Air Quality Index and Pollutant by country over the years.
 Dataset for Indian railways signals.
-User Ratings and Reviews Dataset.
+User Ratings and Reviews dataset.
 Hiring people to take pictures for large datasets.
 Database of 10,000+ keyword ideas for programmatic SEO from 1,000+ different niches.
 Remote sensing: High Resolution/UHR dataset of sub-Saharan African cities w. ground truth labels for semantic segmentation.
@@ -441,30 +434,30 @@ Food Ordering App: User-Order History.
 Airplane ticket price datasets.
 Dataset of universities, degree plans, courses, and scores.
 Dataset to Train a Mental Health Treatment Chatbot.
-Goodwiki Dataset (MIT): Wikipedia Articles in Markdown With Lists, Blockquotes, and More.
+Goodwiki dataset (MIT): Wikipedia Articles in Markdown With Lists, Blockquotes, and More.
 Datasets about European funds.
-Comprehensive Rugby Datasets Ahead of the Rugby World Cup.
+Comprehensive Rugby datasets Ahead of the Rugby World Cup.
 User behavior dataset either public or will pay.
-Dyslexia Reading Speed and Letter mix up Dataset.
+Dyslexia Reading Speed and Letter mix up dataset.
 Hospital Price Transparency Supplemental Data.
 Dataset of all the characters of all spoken languages (modern and ancient).
 Company earnings dataset.
 Spotify dataset with number of plays.
 Altitude and monthly climate data at the US county level.
-Quora Question Answer Pairs Dataset - 56,400 records.
+Quora Question Answer Pairs dataset - 56,400 records.
 Financial transactions and spending.
 Data on US private equity investments in US contractor overtime.
 Physical therapy exercises dataset.
 A dataset for EU/UK flight delay reasons.
-Food Recipe dataset for my personal project.
-Bitcoin Tweets Dataset containing Text, Hashtag and Date.
+Food recipe dataset.
+Bitcoin Tweets dataset containing Text, Hashtag and Date.
 US county level Housing Unit Estimates csv 1960-present.
 Datasets on tourism in Greece.
 All modes/makes of cars.
 Conversational/customer support dataset for potential customer service chatbot.
 Dataset that contains food ingredients.
-Step-by-Step Guide to Preparing Datasets for Object Detection in Video and Images: A Detailed Analysis.
-Computer Vision libraries on Images Datasets.
+Step-by-Step Guide to Preparing datasets for Object Detection in Video and Images: A Detailed Analysis.
+Computer Vision libraries on Images datasets.
 Michelin Star/Michelin Guide datasets.
 Information on the State of Public Transportation in European Countries.
 Financial Data for Eurostoxx 50 and S&P 500 Top 50 companies for 10 years.
@@ -480,7 +473,7 @@ Dataset for electric vehicles customer reviews.
 117th U.S. Congress Bill Full Text Data Scrap.
 Data about scientific papers.
 The 2018 Central Park Squirrel Census.
-London stock exchange daily prices wanted.
+London stock exchange daily prices.
 A list or dataset of ASMR channels.
 Information about school districts across the US.
 A dataset that shows what agricultural products are certified organic per the US government.
@@ -489,21 +482,19 @@ A dataset for Image/Document Authenticity / Forgery Detection.
 Number of copies sold per book.
 100,000 Unique Lines Of AppleScript Code (Non-Annotated).
 A dataset that labels handwriting by neatness/quality.
-Multivariate Dataset to be used for Confirmatory Factor Analysis.
+Multivariate dataset to be used for Confirmatory Factor Analysis.
 Levelized cost of electricity in europe.
 Statement of Purpose or Motivation letter dataset.
 Card Recovery Professional: Recovering Your Lost Data with Ease.
 Click-rates for TikTok ads.
 Dataset of global companies/websites that do advertisement.
-Ideas for Flight Delay Analysis (Specifically for Airlines).
+Flight Delay Analysis.
 Finding datasets for Computer Vision.
 A UK City Geojson file for choropleth map.
 Head height and eyeball diameter for different animals.
 A deep-learning search for technosignatures from 820 nearby stars.
 Timestamped historical economic/financial news.
 A dataset with multiple different object for object detection or image segmentation.
-Access to a dataset or DB that is focused on EHR (symptoms, treatment and diagnosis).
-NLP data of climate movements: Fridays for Future, Extinction Rebellion, Last Generation.
 US stock options dataset.
 Blood sugar count dataset.
 US State by state policies on Vaccine outreach/communication.
@@ -515,7 +506,7 @@ GitHub - Webhose/free-news-datasets: Weekly free datasets from global news sites
 Indonesia COVID-19 vaccination administration by brand timeline dataset.
 Suggestions for free worldwide historical weather datasets.
 Irish Forest BioClass site data in Excel.
-Endangered Languages Project. Database Download.
+List of endangered languages.
 Collection of podcast and TV formulas.
 A database to do with wellbeing with teenagers.
 Is Kaggle reliabe for collecting data.
@@ -523,10 +514,10 @@ Technical employment dataset with real data.
 Good dataset for MRI breast cancer voxel segmentation.
 Bigrams and trigrams extracted from OpenSubtitles dataset.
 Pokemon dataset parsed from pokemondb.net.
-Dataset for social media post tagging (e.g. "Apple just released the iPhone 15 pro" -&gt; tag: "technology").
+Dataset for social media post tagging.
 Dataset on walking, walkability by city - Europe.
-Wanted: Linux kernel GitHub contributors.
-Social Media Dataset with information of location and time period.
+Linux kernel GitHub contributors.
+Social Media dataset with information of location and time period.
 Dataset for Plants with sensor readings.
 Metalinguistic Tests for Language Models.
 Datasets on Industrial Warehouse Automation.
@@ -534,7 +525,7 @@ Historical snowfall by event for a lot of locations.
 REDD dataset unavailable from original mit link.
 VoxCeleb dataset for Thin plate Spline Motion.
 Leaked COVID-19 vaccination outcome dataset.
-Job Acceptance Dataset.
+Job Acceptance dataset.
 A dataset that has over 1000 rows.
 A way for me to find the median household income for a property in a 3, 5, and 10 mile radius.
 Insurance company information.
@@ -551,11 +542,10 @@ Datasets showing muscle mass and body composition and health outcomes.
 Dataset for peace, justice, and strong institutions.
 Research on E-commerce Growth Data China.
 A mapping of all series ID of the FRED API.
-Litrec Dataset (Used in Book Recommendation Systems).
-Screen Content Video Dataset with Descriptions/Captions.
-Unable to find a download link to MED4 (Face+Audio+EEG).
+Book recommendation dataset.
+Screen Content Video dataset with Descriptions/Captions.
 ETS compliance data in useable format.
-Baldness prediction dataset (Dataset with blood values and baldness categorical variable).
+Baldness prediction dataset.
 Dataset on cancer patients.
 Online consumer behavior dataset to test our SaaS idea.
 Face+Audio+EEG dataset for didactic purpose.
@@ -563,8 +553,8 @@ Data on why we preserve the environment.
 A dataset for Geolocation of Pharmacies in India.
 A dataset of coffees and flavour notes.
 Used this dataset for a paper, but cannot find the source.
-We are a retail datasets for our College project.
-DataSet for a fitness related project.
+Retail datasets.
+Fitness dataset.
 Available dataset on Soil microbial diversity.
 Datasets at the county level from 1990-2020.
 Historic records of touristic "demand" (or prices) for a given city.
@@ -592,17 +582,17 @@ The Complete Collection of 60+ Big Data & Data Science Cheat Sheets.
 Commercial Health Insurance Claims Data.
 Interested in business loan default data.
 AI Solutions for Preprocessing Messy CSV Files.
-Strategic Game Datasets for Enhancing AI Planning: An Invitation for Collaborative Research.
-Used car dataset for a personal project.
+Strategic Game datasets for Enhancing AI Planning: An Invitation for Collaborative Research.
+Used car dataset.
 Datasets with tons of Doc and Docx files.
 Datasets on SuperCell and Mobile games.
-Chemical Reaction Datasets or websites to scrape.
+Chemical Reaction datasets or websites to scrape.
 Indian F&O data collection from NSE.
-Footfall/Foot Traffic Datasets.
+Footfall/Foot Traffic datasets.
 Mapping COICOP product codes with EXIOBASE industries.
 LF approximate vehicle maintenance cost of operation per state (US).
 Image datasets with location data.
-Event-Based, Fine-Grained Tennis Matches Dataset.
+Event-Based, Fine-Grained Tennis Matches dataset.
 Dataset of football matches.
 Dataset for survival analysis.
 Python OCR tool for Scholarly PDFs to JSON.
@@ -616,26 +606,25 @@ Global AI, ML, Data Science Salary Index for 2023.
 Morningstar Direct: excess return as a time series.
 List of gym exercises.
 Transactional email dataset.
-Requring Dataset for random website links and news article links.
+Requring dataset for random website links and news article links.
 Dataset of Indian surnames for fuzzy name matching.
 Datasets containing height, weight, and other anthropometric measures from the deceased.
-PubMed Papers & annotated MESH Terms Dataset.
+PubMed Papers & annotated MESH Terms dataset.
 Construction industries in central Florida.
-Realtor List with license number, Names and Email Dataset for Texas.
+Realtor List with license number, Names and Email dataset for Texas.
 Big dataset of fiction with titles.
 American grocery dataset.
 84K TikTok influencer/creator profiles and 1.9M of their videos.
 Manufacturing/Maintenance datasets for ML/NLP.
 A dataset regarding Australian businesses affected by rainfall.
-Datasets for Stats Project - Thinking something in sports and comparing datasets (ask).
 Getting dataset with balance sheet of 1000s of companies.
 Diving into mathematical reasoning with open-source LLMs. These hybrid teaching methods are next level.
-Anonymized Bank Transaction Dataset.
+Anonymized Bank Transaction dataset.
 Tips on comprehensive sports team datasets.
 Percentage of land covered in flood water and flood water volume estimates by states (USA).
 Celebrity dating dataset.
 Manufacturing dataset for time series classification.
-Lokking for Datasets for Grocery Item Detection.
+Lokking for datasets for Grocery Item Detection.
 Datasets for building a Plant Recognition Model.
 Health Insurance Claims Denial Data from Pennsylvania.
 An API or daily dataset for large, in-person event information.
@@ -653,10 +642,10 @@ Environmental dataset for Hackathon.
 All NCAA conferences with lists of colleges.
 Daily Mood Tracker dataset.
 Daily mood dataset.
-Access for Human 3.6m Dataset.
+Access for Human 3.6m dataset.
 Healthcare providers by state/zip, toggle between total/per capita.
 Confused between data engineer, data science or data analytics.
-Top 20 european clubs all time players from 2000s Dataset.
+Top 20 european clubs all time players from 2000s dataset.
 Common aisles to find grocery store item.
 GPT-4 function calling can label hospital price data.
 NLP dataset for a stream of consciousness: The Rambles.
@@ -665,33 +654,33 @@ Dataset of information published by colleges from the common dataset.
 Track private flight info (from LA to Las Vegas) from 2016.
 Auction results in used/new construction equipment.
 App that links heart rate and/or ECG to calendar events/other apps.
-DataSet of Bone fracture localization.
+Dataset of Bone fracture localization.
 Prices for used medium and heavy duty vehicles dataset.
 Plastic Waste in Oceans, water to save marine life.
 Database for companies across the asia.
 Sound dataset of different weapons and explosions.
 Entire reddit dataset.
-Historical Datasets on Cyberattacks.
+Historical datasets on Cyberattacks.
 Stock manipulation dataset.
 A list of manipulated stocks.
 Socioeconomic High-resolution Rural-Urban Geographic Platform for India.
 Dataset for psychometrics class.
 Historical Billboard Chart data.
-Images Dataset with annotated human actions to train visual description model for accessibility app.
+Images dataset with annotated human actions to train visual description model for accessibility app.
 3000 microwave ovens from popular e-commerce sites.
 MIDI dataset of guitar tablatures.
-Fed Funds Rate (FFR) futures historical data.
+Fed Funds Rate futures historical data.
 Trying to create a spam voicemail dataset.
 English Words "familiarity" dataset.
 NBA March Madness or other internal-to-company sports-prediction related datasets.
 Datasets for consumer products with the component chemicals present and the properties of the overall product.
-Product Dataset for Solar or IT e-commerce.
+Product dataset for Solar or IT e-commerce.
 Datasets containing audio and video recordings.
 Dataset about educational videogames and its effectiveness.
 Dataset about rainfall in my city to find ideal day for a wedding.
 Medical devices in wound healing dataset.
 US Loan-Level Mortgage Data from HDMA.
-Datalab: Automatically Detect Common Real-World Issues in your Datasets.
+Datalab: Automatically Detect Common Real-World Issues in your datasets.
 Datasets containing residential sales prices in Australian capitals.
 US dataset of corporate employee titles and job level.
 A number of stocks listed on exchanges over years.
@@ -700,11 +689,10 @@ All US Healthcare Providers on Snowflake.
 Dataset for malicious posts on reddit.
 Dataset on the Arts & Culture Sector of United States.
 A dataset regarding Flash rob or flash mob robberies.
-NCAA Basketball Dataset with videos.
+NCAA Basketball dataset with videos.
 Dataset about road quality in Europe.
-Accessible ESG datasets for school project.
 Metadata on US or international boycotts.
-Large 3D Models Dataset With Description.
+Large 3D Models dataset With Description.
 Cybersyn: Snowflake funded Data-as-a-Service Provider.
 Typescript linux corpora.
 Deutsche Bahn/German train system delays.
@@ -719,7 +707,7 @@ Subnational COVID-19 vaccination data (Europe).
 Asthma hospitalization rates data by Texas county from 2010-2020.
 Datasets on occupational diversity in Israel.
 Data on the earliest timestamp of news.
-Nucreal Fusion Dataset, is it too experimental/secret.
+Nucreal Fusion dataset, is it too experimental/secret.
 Dataset for speaker diarisation on accented speech.
 Active list of domain names.
 Dataset of medical case scenarios and appropriate diagnosis.
@@ -741,14 +729,14 @@ Number of births by day.
 ISO free sample dataset in CSV, with some columns in JSON format.
 Website rankings.
 A dataset containing Hollywood movie characters and their descriptions.
-Shopping list items with category API or Dataset.
+Shopping list items with category API or dataset.
 Municipality-Level Poverty Data for Puerto Rico.
 Dataset for the average height for Swedish males between year 1850 - 2000.
 Trying to find dataset on new construction zoning in the US.
 Dataset of all reddit comments linking to an Amazon product.
 High resolution data on income or house prices in Turkey.
 Data on all "xyz" types of businesses in a given area.
-Logistic Regression datasets for machine learning project.
+Logistic regression dataset.
 A web page image element detection dataset.
 Total internet text.
 Dataset for exploring effects of social media on society suitable for high school.
@@ -763,12 +751,12 @@ U.S Insurance Provider Lives Covered.
 Dataset for Applied Economics Research.
 Sentence semantic similarity dataset with their similarity scores.
 Bilateral ecomm/digital trade flows.
-US Dataset on Shares of Religious beliefs.
+US dataset on Shares of Religious beliefs.
 Dataset to predict vehicle reliability.
 Earnings by level of education (UK).
 Problem downloading U.S. congressmen trades dataset.
 FBI Swatting database/dataset.
-Stress Dataset from Reddit.
+Stress dataset from Reddit.
 Best Data Source for Direct-to-Consumer Companies.
 JUnit 5 dataset for fine tuning an LLM.
 Free and accurate historical rainfall API.
@@ -776,14 +764,14 @@ Mental Health and Educational Attainment of Asian Americans.
 Cars' prices 2008-2018 dataset.
 Spare parts synthetic data for forecasting.
 Dataset with Artist Similarity, Genres and Song Mood.
-Isolated Instruments Dataset for source separation.
+Isolated Instruments dataset for source separation.
 A dataset related to Ehlers Danlos syndrome.
 A dataset about Cerebral Palsy.
 Dataset suggestions for learning modeling and optimizations.
 Database for protein expression.
 A market for selling datasets.
-Want English songs dataset, for a proof of concept project, yet realistic.
-Customer Support Chat Dataset for Training a llm.
+English songs dataset.
+Customer Support Chat dataset for Training a llm.
 Dataset translation script: is this a problem you commonly face.
 Dataset for Sentimental Analysis.
 ISO: Simple Format Global Elevation Data.
@@ -800,10 +788,9 @@ I'm data on UK pet owners data.
 Cat meows to aid novel study on cat vocalisations.
 Social platform trends data.
 Behavioral temporal dataset for large scale analysis.
-Finding data about videogame consoles for college project.
+Data about videogame consoles.
 Facial emotion recognition datasets.
 Datasets with Geotagged Images.
-ISIC 2020 images ROI(region of interest).
 A dataset of historic US Presidential/House/Senate election polling.
 Tractor attachments from above dataset.
 Handwriting dataset.
@@ -811,17 +798,15 @@ Multivariate data for assignment about microbiology.
 TSA - Time Series Analysis Decomposition.
 Global advertising data from 2013-2023.
 A free use disease dataset with medical and lifestyle features.
-Nutritionist recommended Food (fruit/vegetables) dataset.
-IMDB Dataset with film posters.
+Nutritionist recommended Food dataset.
+IMDB dataset with film posters.
 Azure Synapse Analytics: A Step-by-Step Guide.
 US & UK Bill of lading shippment data.
 How the list of most polluted cities changed in last 50 years.
 Dataset for customer churn due to bad customer service/support in ecommerce or retail.
 Data or Recordings of the signal of GPM J1839-10.
-Crime Datasets.
-Command line tool for extracting secrets such as passwords, API keys, and tokens from WARC (Web ARChive) files.
-Synthetic Data for AGI is not THAT hard (math especially).
-Access to some flights api for a personal project.
+Crime datasets.
+Flights dataset.
 Professional boats dataset required pls.
 Anonymous mobile location dataset in Vietnam.
 NAVAREA and subregion boundaries geojson.
@@ -831,9 +816,9 @@ ASL dictionary dataset.
 US Retirement ages year over year with demographic data through 2022.
 Publicly available data regarding Commercial Real Estate retrofitting activity.
 Digital marketing dataset of ad campaigns on social media platforms.
-Datasets on gaming for personal project.
-Ballistics/Ammunition Dataset.
-Nancy Pelosi Stock Returns Dataset.
+Datasets on gaming.
+Ballistics/Ammunition dataset.
+Nancy Pelosi Stock Returns dataset.
 Datasets for analyzing the economic impact of the animation industry on economic growth through the emans of tourism.
 500K Food Products.
 A set with OTC/RX medications, recommended dosages, and safe dosing intervals.
