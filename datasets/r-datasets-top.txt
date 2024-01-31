@@ -111,8 +111,6 @@ A dataset about bicycles.
 Dataset with tuition of private education in Brazil (elementary through high school) over time.
 Obesity rate by zip or county.
 Need scientific computing power for your research Got a big dataset to iterate over BOINC can get you teraflops computing power absolutely free.
-Where to Find these particular datasets.
-Where else would you post your data request.
 ACS Data in easily Digestable Format.
 Datasets for Emotional Abuse & Self Esteem.
 A dataset on tomato yield in greenhouses.
@@ -159,7 +157,6 @@ Finding Historical stock data from 1960-1980.
 Medical datasets for learning risk score models.
 DoltHub Data Bounties are no more. Thanks to r/datasets for all the support over the years.
 Datasets to practice on to get a Job.
-A marketplace to fulfil serious dataset requests .
 Getting access to high-quality data for MLs in the training stage.
 English Premier League First Half vs Second Half Data by Match.
 A dataset(s) containing NAICS, SIC, and DUNS codes.
@@ -214,7 +211,7 @@ A dataset of League of Legends matches containing summoner and their picks.
 Dataset of Lung Cancer Patient Records.
 Price for speech dataset for Speech-To-Text machine learning (Korean).
 GridStatus: Live energy grid (ISO) data for the US.
-Is it possible to get Census data (demographic, median income, etc.) per zip code.
+Census data (demographic, median income, etc.) per zip code.
 The 100 most populated cities in America.
 Potential equivalents for Twitter and Reddit APIs.
 Dataset for fine tuning code generation LLMs.
@@ -232,7 +229,6 @@ VL Datasets - A Free Collection of Clean Computer Vision Datasets.
 Common anti-bot (anti-scraping) measures on Websites and how to bypass them.
 Found some more simple csv & excel datasets for business use cases.
 Dataset or database for computer component gaming performance.
-Can someone please send me the link for data I could use to perform a t-test.
 Dataset to measure how frequently vehicular parts are subjugated to wear and tear of specific brand / specific model (ANY WILL DO).
 Historical 1-min OHLC crypto prices 1900+ coins dataset with code.
 Time Series for Climate Change: Forecasting Wind Power.
@@ -270,7 +266,6 @@ IMDb movie datasets.
 Agent personas to improve LLMs dataset.
 Similarity semantic search sentences or paragraphs.
 A dataset containing baby images, preferably annotated, and containing babies who are both awake and asleep.
-GIS data for a project. I apologize for the banality of my request and for my English.
 Crimes in Boston During Covid-19 (2020-2021).
 Mobile vs Desktop/Laptop internet traffic.
 I am a dataset that has at least 12 input features (excluding target variable) for a binary classification problem.
@@ -306,7 +301,7 @@ Want to find the datasets for crop yield predictions.
 Dataset about comments from people in different relation types.
 Looking for: Dataset (Gender) Bias Detection.
 Which dataset is good for food related projects. I want to work on Inverse Cooking, but am confused if i can jump into it or not.
-Request - dataset showing all airlines in the world, ranked by number of passengers in 2019.
+Dataset showing all airlines in the world, ranked by number of passengers in 2019.
 Reliable datasets for tourism arrivels per country.
 I'm a dataset through which I can solve a real world problem(Time series modelling).
 Inmate population datasets for California, Colorado, and Texas.
@@ -361,7 +356,6 @@ Police Officer Bodycam Dataset.
 Datasets about healthcare.
 Radiation Spread during an oil tanker explosion.
 Real Estate Sales Data for New York State.
-US DoD data request by profession plz.
 Where can I get dataset related to security incidents.
 A database for sales for various companies during their history.
 Cybersecurity Breach Data Set with over 10k Records.
@@ -375,14 +369,14 @@ Reasoning Test/complex shape pattern dataset.
 A Dataset of Global AI/ML, Data Science Salaries in the Public Domain.
 A DIABETES DATASET ( preferably Type-II ) for a research project.
 Websites to download datasets about casinos / gambling industry.
-Human history dataset request as large or as many as possible.
+Human history dataset.
 Need Bibliometric data of researchers and their works.
 ISO datasets about antibiotic resistant bacteria in UK waterways.
 Examples of Data combining with culture/qualitative data/ consumer experience to better understand ticket sales.
 InternVid-10M-FLT: 10m video clips with captions (Wang et al 2023).
 Dataset for the titles of reddit posts.
 Dataset for Ships flashing morse code or lights on and off.
-Data request for medicine in the united states.
+Data for medicine in the united states.
 Seeking Website with Reviews on Place Accessibility for People with Disabilities.
 Data Analysis: Dataset for Rental Sales Includes All Sales Throughout All of 2018 and December of 2017.
 All 98,564 lines from South Park S1 - S26 (1,561,418 words).
@@ -406,14 +400,13 @@ School Closures Caused by the COVID-19 Pandemic.
 Effects of COVID on cruiselines and airlines.
 Using NYC Taxi data to learn the data quality tool Great Expectations.
 Vehicle registration data per state.
-Need a public access-free-very easy data set. Please. For R ggplot exercise.
 NBA and A multilingual dataset for parsing realistic task-oriented dialogues.
 USA county data.
 Historical data on Spotify tracks.
 Alternative Medicine Effectiveness Datasets.
 Datasets with notes, quick thoughts, reminders.
 Fresh, Stale, and Rotten Salmon Fillet Datasets for my Thesis.
-How to buy/request data from the DMV.
+Data from the DMV.
 DS about 4 days work week experiment.
 Cost Charge Ratios for NIS database years 2012 and 2013.
 Where can I find a numeric-only data set.
@@ -447,7 +440,7 @@ Lung cancer dataset for AI detection.
 How to get a GDP breakdown for sub-industries.
 A longitudinal dataset on US newspaper ownership such that I can track changes in the ownership of any given US newspaper/daily over a period of time.
 Any reputable datasets for UFC data.
-Is it possible to obtain Car Repossessed Datasets 2022-2023.
+Car Repossessed Datasets 2022-2023.
 Look for interesting graph datasets (nodes connected by links).
 Dataset on betting - Where to get for free.
 Google trends.
@@ -481,7 +474,7 @@ Where would I get data on rejected loans.
 A dataset about 'Heat Sealing Inspection based on Deep Learning'.
 ITRA races results database.
 Large Retail or Manufacturing datasets.
-Global Dataset for Air Quality Index and Pollutant by country (and city/state if possible) over the years.
+Global Dataset for Air Quality Index and Pollutant by country over the years.
 How to create an image dataset for Indian railways signals.
 Where to get User Ratings and Reviews Dataset for Anilist or Myanimelist to create a recommendation system.
 Hiring people to take pictures for large datasets.
@@ -490,7 +483,7 @@ Remote sensing: High Resolution/UHR dataset of sub-Saharan African cities w. gro
 Triple Negative Breast Cancer Relapse Data.
 A dataset of political news which are favourable and not favourable to the government.
 Food Ordering App: User-Order History.
-Request for Airplane ticket price datasets.
+Airplane ticket price datasets.
 Dataset of universities, degree plans, courses, and scores.
 How to Build Data Products - Learn about Metric-Targeting, Semantic Engineering, Model Validation, and More.
 Seeking Dataset to Train a Mental Health Treatment Chatbot.
@@ -540,7 +533,7 @@ Where can I find data about scientific papers.
 The 2018 Central Park Squirrel Census.
 London stock exchange daily prices wanted.
 A list or dataset of ASMR channels.
-Request- any datasets having information about school districts across the US.
+Information about school districts across the US.
 A data set that shows what agricultural products are certified organic per the US government.
 A dataset of letters. Any ideas.
 Need a dataset for Image/Document Authenticity / Forgery Detection.
@@ -632,7 +625,7 @@ Data Set for a fitness related project.
 Available dataset on Soil microbial diversity.
 Where to find datasets at the county level from 1990-2020.
 Historic records of touristic "demand" (or prices) for a given city.
-Request - API for sports historical data.
+Sports historical data.
 How can I pull housing type counts by state from US Census Data.
 A dataset on environmental protection and climate change.
 Longitudinal datasets from the Michelin guide.
@@ -707,11 +700,10 @@ Percentage of land covered in flood water and flood water volume estimates by st
 Celebrity dating dataset: who dated who.
 Manufacturing dataset for time series classification.
 Lokking for Datasets for Grocery Item Detection.
-Seshat databank files request- site currently down.
 Datasets for building a Plant Recognition Model.
 Health Insurance Claims Denial Data from Pennsylvania.
 An API or daily dataset for large, in-person event information.
-Request -- Dataset showing internet/traceroute latency by geography/provider.
+Dataset showing internet/traceroute latency by geography/provider.
 .Onion/Deep Web Scraped Pages datasets.
 A text or audio dataset in a language that is not in Google Translate.
 Dataset of all the characters of all spoken languages (modern and ancient).
@@ -753,7 +745,7 @@ Stock manipulation dataset or where i can find a list of manipulated stocks.
 Socioeconomic High-resolution Rural-Urban Geographic Platform for India.
 Dataset for psychometrics class.
 Historical Billboard Chart data.
-Requesting an Images Dataset with annotated human actions to train visual description model for accessibility app.
+Images Dataset with annotated human actions to train visual description model for accessibility app.
 3000 microwave ovens from popular e-commerce sites.
 Where can I find resources to make a MIDI dataset of guitar tablatures.
 Fed Funds Rate (FFR) futures historical data.
@@ -772,7 +764,7 @@ Datalab: Automatically Detect Common Real-World Issues in your Datasets.
 Datasets containing residential sales prices in Australian capitals that I can download for free.
 US data set of corporate employee titles and job level.
 A number of stocks listed on exchanges over years.
-Request for updated Formula E dataset with most detail possible.
+Formula E dataset.
 All US Healthcare Providers on Snowflake.
 Dataset for malicious posts on reddit.
 Dataset on the Arts & Culture Sector of United States.
@@ -786,7 +778,7 @@ Cybersyn: Snowflake funded Data-as-a-Service Provider.
 Typescript linux corpora.
 What are some reputable sources, that offer legally licensed datasets suitable for commercial use, which can be used to train or fine tune a model utilising images and videos.
 Deutsche Bahn/German train system delays.
-Request for public Transportation Routes and Stops.
+Public transportation routes and stops.
 Prevalence of words, phrases and emojis in US Twitter user profile bios - Web tool and csv.
 Dataset of tourism levels in Budapest, Hungary in 2015.
 Cannot find the I2R dataset on the internet.
@@ -835,20 +827,18 @@ A Shakespeare Corpus.
 Looking to access or share a crunchbase dataset.
 IRS Population Migration & income data available on Snowflake.
 Dataset on appliance name, model, age, electricity usage, price etc.
-Request for video game budget database.
+Video game budget database.
 Datasets for which software applications integrate with other applications.
 Dataset for Quotes.
 U.S Insurance Provider Lives Covered.
 Dataset for Applied Economics Research.
 Sentence semantic similarity dataset with their similarity scores.
-Where is possible to get historical order book data for BTC/USDT from Binance.
 Bilateral ecomm/digital trade flows.
 US Dataset on Shares of Religious beliefs needed.
 The Approach vs Technology Confusion: Where do Data Products Fit In.
 Dataset to predict vehicle reliability.
 Earnings by level of education (UK).
 Problem downloading U.S. congressmen trades dataset.
-Can someone break down the files and variables available in MIMIC-IV and eICU datasets and the difference between MIMIC-IV and older versions.
 FBI Swatting database/dataset.
 Stress Dataset from Reddit.
 Best Data Source for Direct-to-Consumer Companies.
@@ -879,7 +869,6 @@ Dataset on Salinity of Bangladesh.
 A streaming services for a particular movie API/dataset.
 I'm data on UK pet owners data.
 500+ Calls for Palestinian Genocide.
-Can someone please advise me non-synthetic CCTV datasets with distortions.
 Researcher collecting cat meows to aid novel study on cat vocalisations (it's quick and simple).
 Social platform trends data.
 Searching for Behavioral temporal dataset for large scale analysis.
@@ -893,7 +882,6 @@ Tractor attachments from above dataset.
 Handwriting dataset.
 Multivariate data for assignment about microbiology.
 TSA - Time Series Analysis Decomposition.
-Request for source: All historical FFR futures data.
 Global advertising data from 2013-2023.
 A free use disease data set with medical and lifestyle features.
 Seeking Guidance on Extracting and Analyzing Subreddit/Post Comments Using ChatGPT-4.
@@ -926,7 +914,7 @@ Datasets on gaming for personal project.
 I need public server of Microsoft SQL server to practice power bi.
 Seeking Ballistics/Ammunition Dataset.
 Nancy Pelosi Stock Returns Dataset.
-Seeking REPUTABLE datasets for analyzing the economic impact of the animation industry on economic growth through the emans of tourism. Can someone recommend a datasets for this pleaseeeeee.
+Datasets for analyzing the economic impact of the animation industry on economic growth through the emans of tourism.
 Seeking Assistance: Categorizing 500K Food Products into Specific Categories.
 A set with OTC/RX medications, recommended dosages, and safe dosing intervals.
 Data set for walk ability by country and/or cities in Europe.
