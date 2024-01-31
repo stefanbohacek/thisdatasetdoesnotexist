@@ -394,7 +394,7 @@ The Rise of AI Generated Galleries.
 Comparing the total game consoles sold by Sony PlayStation and Microsoft Xbox.
 First 5 months of my recent job search.
 Revenue and Profit per Employee of the 15 Largest Companies (Thousands of USD).
-Ever wondered which male actors have the highest average IMDB ratings?
+Which male actors have the highest average IMDB ratings.
 Ranking Countries on How Many Scientific Articles They Publish Yealy in Relation to Their Population.
 Warren Buffett's Portfolio as of Q4 2022.
 Breastmilk pumped per day.
@@ -592,7 +592,7 @@ Two months of Australian Wildfires animated.
 I tracked every-time I cried in 2023.
 Football Players Tracking with YOLOv5 + ByteTrack + OpenCV.
 House of Cards IMDB ratings.
-Ever wondered which directors have the highest average IMDB movie ratings?
+Which directors have the highest average IMDB movie ratings?
 Tornadoes in the United States (2000 - 2023).
 Most Visited US National Parks.
 All of LeBron's buckets over the years.
@@ -639,7 +639,7 @@ Higher and lower than average weekend temperatures in the US.
 Delays and cancellations for 6.5M flights in the US or: Don't Fly Frontier on a Friday.
 How has prosperity changed over the last 16 years? Every country colored by positive or negative change according to the Legatum Prosperity Index.
 Market share of the biggest cloud providers.
-Ever wondered which decades of movies have the highest average IMDB rating?
+Which decades of movies have the highest average IMDB rating?
 US National Debt in $1 Bills in New York Central Park.
 X or Y: Predominant gender by county.
 Countries that are considered developed.
@@ -693,14 +693,14 @@ It would take Lamar Jackson (#1 paid player in the NFL with a $80,000,000 guaran
 2023 Developer Compensation by Country.
 How many emergency numbers does each country have?
 Top 20 best-selling game franchises of all time.
-Ever wondered which male actors have the lowest average IMDB ratings?
+Which male actors have the lowest average IMDB ratings?
 I have tracked my weight for 4 years.
 MCU movie ratings as a rolling average.
 Comparing GDP per Capita and Life Expectancy (2021).
 Each country's subreddit and its number of members.
 Plotted Seconds to Midnight Since in the inception of the Doomsday Clock.
 Perceived Likelihood That Intelligent Life From Another Planet Has Visited Earth.
-Ever wondered which genre of movies has the highest average IMDB rating?
+Which genre of movies has the highest average IMDB rating?
 Expected years of schooling within each country. Anyone know why Australia is so far ahead of the curve on this one?
 Chart showing record global temperatures this week with the anomaly compared with the 1991-2020 average.
 Canada just recorded its biggest population bump in history.
@@ -880,7 +880,7 @@ Chancellors of Germany Age at Inauguration and Departure.
 The most injured football players of the 21st century.
 Every Space Debris Orbiting the Earth.
 Does the world's actions match the Paris Agreement promises of fighting climate change?
-Ever wondered which actresses have the lowest average IMDB movie ratings?
+Which actresses have the lowest average IMDB movie ratings?
 US Mortgage Affordability Index.
 Latin America's Imports and Exports.
 How media divides us: CNN vs Fox News - What stories or topics are they airing over the last week (Feb 9 - Feb 15)? How do they compare to Reuters?
@@ -943,7 +943,7 @@ Hot Ones Spicy Data.
 AMD vs NVIDIA Stock (Last 8 years).
 Comparing Life Expectancy to Retirement Ages in G20.
 Average Prices for 1g of Cannabis in Europe.
-Ever wondered which actresses have the highest average IMDB ratings?
+Which actresses have the highest average IMDB ratings?
 Number of executions worldwide 2022.
 Did You Feel That? The location, magnitude, and duration of earthquakes around the world in 2023.
 The most polarizing movies, film genres, and storytelling elements as determined by variance in online ratings.
