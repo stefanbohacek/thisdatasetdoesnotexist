@@ -2,17 +2,7 @@
 
 A simple website that can help inspire your next data collection and visualization project.
 
-A few examples:
-
-- EU-funded projects in the US.
-- Three centuries of UK general elections.
-- 4,500 years of urbanization.
-- Many millions of street addresses.
-- The Marvel Cinematic Universe is the largest movie franchise in history, I counted how many people were wearing masks.
-- Refugees resettled in the kitchen.
-- The popularity of the world.
-
-Try it at [thisdatasetdoesnotexist.com](https://thisdatasetdoesnotexist.com/)!
+Try it at [thisdatasetdoesnotexist.com](https://thisdatasetdoesnotexist.com/) and learn more about the project [on my blog](https://stefanbohacek.com/project/this-dataset-does-not-exist/).
 
 ## Development
 
