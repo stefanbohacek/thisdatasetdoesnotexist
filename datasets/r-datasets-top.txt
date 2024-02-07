@@ -552,7 +552,6 @@ Face+Audio+EEG dataset for didactic purpose.
 Data on why we preserve the environment.
 A dataset for Geolocation of Pharmacies in India.
 A dataset of coffees and flavour notes.
-Used this dataset for a paper, but cannot find the source.
 Retail datasets.
 Fitness dataset.
 Available dataset on Soil microbial diversity.
@@ -699,7 +698,6 @@ Deutsche Bahn/German train system delays.
 Public transportation routes and stops.
 Prevalence of words, phrases and emojis in US Twitter user profile bios - Web tool and csv.
 Dataset of tourism levels in Budapest, Hungary in 2015.
-Cannot find the I2R dataset on the internet.
 Google trends but for social media/new publications.
 Basic company information for Europe.
 Historical intraday stock market data.
